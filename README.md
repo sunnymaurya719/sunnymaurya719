@@ -66,7 +66,7 @@ I’ve recently completed **Lavish Fashion**,a Full-stack fashion e-commerce web
 ## 📫 Let's Connect!
 
 - 📧 Email: [sunnymaurya1920@gmail.com](mailto:sunnymaurya1920@gmail.com)  
-- 🔗 [View My Resume](https://drive.google.com/file/d/1epQbGIMOhrufdccpVUYXDwsssvAdI1NM/view?usp=drivesdk)  
+- 🔗 [View My Resume](https://drive.google.com/file/d/1DAdmaNhVtKgltzUxh8JVIEy9mA0pWCr0/view?usp=sharing)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/sunny-maurya-532483299)  
 - 💻 [GitHub](https://github.com/sunnymaurya719)
 
