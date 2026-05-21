@@ -56,7 +56,7 @@ I’ve recently completed **Lavish Fashion**,a Full-stack fashion e-commerce web
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🛒 [E-Commerce Website](https://github.com/sunnymaurya719/Lavish-Fashion)<br>[🌐 Live ](https://lavishfashion.vercel.app) | Full-stack fashion e-commerce website with responsive UI, user authentication, cart system, admin panel, product management, Cloudinary image uploads, Razorpay payment integration, and order handling | React, Tailwind CSS, Node.js, Express.js, MongoDB, Cloudinary, Razorpay |
+| 🛒 [E-Commerce Website](https://github.com/sunnymaurya719/Lavish-Fashion)<br>[🌐 Live ](https://lavishfashione.shop) | Full-stack fashion e-commerce website with responsive UI, user authentication, cart system, admin panel, product management, Cloudinary image uploads, Razorpay payment integration, and order handling | React, Tailwind CSS, Node.js, Express.js, MongoDB, Cloudinary, Razorpay |
 | 🤖 [ SaraGPT](https://github.com/sunnymaurya719/SaraGPT)<br>[🌐 Live ](https://sara-gpt.vercel.app) | Full-stack AI chat application with real-time responses using Perplexity API, user authentication, chat history storage, and memory management for contextual conversations | React, Tailwind CSS, Node.js, Express.js, MongoDB, Perplexity API |
 | 💬 [ChitChat](https://github.com/sunnymaurya719/ChitChat)<br>[🌐 Live ](https://chitchat-rho-lemon.vercel.app) | Real-time chat application with user authentication, one-to-one messaging, online status, smooth UI, and responsive design | React, Tailwind CSS, Node.js, Express.js, MongoDB, Socket.io |
 
